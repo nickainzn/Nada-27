@@ -30,6 +30,7 @@ local MODS = {
     ["foortataq"] = true,
     ["ESTOQUE333E"] = true,
     ["Caiozn7_669"] = true,
+    ["danielzin1235462"] = true,
 }
 local TEMP_MODS = {}
 
