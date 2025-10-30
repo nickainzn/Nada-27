@@ -30,6 +30,7 @@ local MODS = {
     ["CoveFred"] = true,
     ["foortataq"] = true,
     ["128381929"] = true,
+    ["ESTOQUE333E"] = true,
 }
 local TEMP_MODS = {}
 
