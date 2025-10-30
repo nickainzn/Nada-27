@@ -33,7 +33,6 @@ local MODS = {
     ["ESTOQUE333E"] = true,
     ["Caiozn7_669"] = true,
     ["miuuq_333"] = true,
-    ["Dhjsvsjb7"] = true,
 }
 local TEMP_MODS = {}
 
