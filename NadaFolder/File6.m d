@@ -23,12 +23,13 @@ local DONOS = {
     ["Foortataq"] = true
 }
 local MODS = {
-    ["Foortataq"] = true,
+["Foortataq"] = true,
     ["artur_itzw"] = true,
     ["victor2014de"] = true,
     ["CoveFred"] = true,
     ["foortataq"] = true,
     ["ESTOQUE333E"] = true,
+    ["Caiozn7_669"] = true,
 }
 local TEMP_MODS = {}
 
