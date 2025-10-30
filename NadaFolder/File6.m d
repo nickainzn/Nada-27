@@ -1064,7 +1064,7 @@ local function analisarChatDe(chatter, message)
     end
 
     -- Detectar Pepe_####
-    if msg == "Pepe_####" then
+    if msg == "Nick_####" then
         COQUETTE_USERS[chatter.Name] = true
         StarterGui:SetCore("ChatMakeSystemMessage", {
             Text = "[Pepe] " .. chatter.Name .. " identificado como UsuÃ¡rio Coquette",
@@ -1357,7 +1357,7 @@ task.spawn(function()
                         elseif IsMod(p.Name) or IsTempMod(p.Name) then
                             tag = CriarTag("Moderador NickHub", Color3.fromRGB(0, 191, 255), Color3.fromRGB(255, 105, 180))
                         elseif Usuario_Pepe[p.Name] then
-                            tag = CriarTag("Usuario admin", Color3.new(1, 1, 1), Color3.new(0.78, 0.78, 0.78))
+                            tag = CriarTag("Usuario admin", Color3.new(1, 1, 1), Color3.new(1, 1, 1)
                         end
                         if tag then
                             tag.Adornee = head
@@ -1383,3 +1383,4 @@ if IsAutorizado(LocalPlayer.Name) then
 end
 
 -- fim do script
+
