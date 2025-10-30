@@ -23,6 +23,7 @@ local DONOS = {
     ["Foortataq"] = true
 }
 local MODS = {
+    ["HO_oi57"] = true,
     ["Ho_oi57"] = true,
     ["foortq"] = true,
 ["Foortataq"] = true,
