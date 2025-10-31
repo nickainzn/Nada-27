@@ -23,8 +23,6 @@ local DONOS = {
     ["Foortataq"] = true
 }
 local MODS = {
-["foortq"] = true,
-["Foortataq"] = true,
     ["artur_itzw"] = true,
     ["victor2014de"] = true,
     ["CoveFred"] = true,
@@ -1385,4 +1383,5 @@ if IsAutorizado(LocalPlayer.Name) then
 end
 
 -- fim do script
+
 
