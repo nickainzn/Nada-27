@@ -26,6 +26,7 @@ local MODS = {
 ["ziovxoo"] = true,
     ["Foortataq"] = true,
     ["artur_itzw"] = true,
+    ["goku_prime41"] = true,
 }
 local TEMP_MODS = {}
 
