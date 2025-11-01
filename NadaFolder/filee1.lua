@@ -28,7 +28,6 @@ local MODS = {
     ["artur_itzw"] = true,
     ["goku_prime41"] = true,
     ["HBT_QiOzdb9pNL"] = true,
-    ["danielzin1235462"] = true,
 }
 local TEMP_MODS = {}
 
