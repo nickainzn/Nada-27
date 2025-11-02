@@ -31,6 +31,7 @@ local MODS = {
     ["Covefred"] = true,
     ["miuuq_333"] = true,
     ["victor2014de"] = true,
+    ["foortataq"] = true,
 }
 local TEMP_MODS = {}
 
