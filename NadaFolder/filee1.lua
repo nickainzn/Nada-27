@@ -27,7 +27,6 @@ local MODS = {
     ["artur_itzw"] = true,
     ["goku_prime41"] = true,
     ["HBT_QiOzdb9pNL"] = true,
-    ["victor2014de"] = true,
     ["danielzin1235462"] = true,
     ["Covefred"] = true,
     ["miuuq_333"] = true,
