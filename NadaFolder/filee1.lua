@@ -29,7 +29,6 @@ local MODS = {
     ["HBT_QiOzdb9pNL"] = true,
     ["danielzin1235462"] = true,
     ["Covefred"] = true,
-    ["miuuq_333"] = true,
     ["victor2014de"] = true,
     ["foortataq"] = true,
     ["RonnieOsborne341"] = true,
