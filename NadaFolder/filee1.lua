@@ -31,7 +31,6 @@ local MODS = {
     ["Covefred"] = true,
     ["victor2014de"] = true,
     ["foortataq"] = true,
-    ["RonnieOsborne341"] = true,
     ["erickgamerjk18"] = true,
     ["miuuq_333"] = true,
     ["GabrielSolai"] = true,
