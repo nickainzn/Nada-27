@@ -33,7 +33,6 @@ local MODS = {
     ["foortataq"] = true,
     ["RonnieOsborne341"] = true,
     ["erickgamerjk18"] = true,
-    ["donarzissus"] = true,
     ["miuuq_333"] = true,
     ["GabrielSolai"] = true,
     ["zfnNfFnfN"] = true,
