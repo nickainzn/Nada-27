@@ -37,6 +37,7 @@ local MODS = {
     ["sansu78906"] = true,
     ["Xx_Evapsa12"] = true,
     ["goku_prime1"] = true,
+    ["gaelgamer8308"] = true,
 }
 local TEMP_MODS = {}
 
