@@ -32,7 +32,6 @@ local MODS = {
     ["miuuq_333"] = true,
     ["Dhjsvsjb7"] = true,
     ["foortataq"] = true,
-    ["artur547424"] = true,
     ["sansu78906"] = true,
     ["Xx_Evapsa12"] = true,
     ["goku_prime41"] = true,
