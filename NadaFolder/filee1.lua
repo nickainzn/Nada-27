@@ -24,7 +24,6 @@ local DONOS = {
 }
 local MODS = {
 ["Foortataq"] = true,
-    ["artur_itzw"] = true,
     ["HBT_QiOzdb9pNL"] = true,
     ["danielzin1235462"] = true,
     ["Covefred"] = true,
