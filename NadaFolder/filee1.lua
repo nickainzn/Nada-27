@@ -37,6 +37,7 @@ local MODS = {
     ["goku_prime41"] = true,
     ["mathezinhoiniciante1"] = true,
     ["rMRHnDNajNk"] = true,
+    ["teamzeusjustjoin"] = true,
 }
 local TEMP_MODS = {}
 
