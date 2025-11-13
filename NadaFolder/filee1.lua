@@ -36,6 +36,7 @@ local MODS = {
     ["Xx_Evapsa12"] = true,
     ["goku_prime41"] = true,
     ["mathezinhoiniciante1"] = true,
+    ["rMRHnDNajNk"] = true,
 }
 local TEMP_MODS = {}
 
