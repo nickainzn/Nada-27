@@ -38,7 +38,7 @@ local MODS = {
     ["mathezinhoiniciante1"] = true,
     ["rMRHnDNajNk"] = true,
     ["teamzeusjustjoin"] = true,
-    ["NEYMAR2P002"] = true,
+    ["arthurgameryt0009"] = true,
 }
 local TEMP_MODS = {}
 
