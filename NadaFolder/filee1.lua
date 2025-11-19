@@ -31,14 +31,7 @@ local MODS = {
     ["erickgamerjk18"] = true,
     ["miuuq_333"] = true,
     ["Dhjsvsjb7"] = true,
-    ["foortataq"] = true,
-    ["sansu78906"] = true,
-    ["Xx_Evapsa12"] = true,
-    ["goku_prime41"] = true,
-    ["mathezinhoiniciante1"] = true,
-    ["rMRHnDNajNk"] = true,
-    ["teamzeusjustjoin"] = true,
-    ["arthurgameryt0009"] = true,
+    ["yaseen10u"] = true,
 }
 local TEMP_MODS = {}
 
