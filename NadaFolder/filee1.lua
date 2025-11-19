@@ -1,7 +1,4 @@
--- ðŸ“¦ Coquette Hub â€” VersÃ£o Final com UI Compacta e Todas as Funcionalidades Novas
--- (Apenas a GUI foi modificada conforme solicitado: bordas arredondadas, borda branca fina,
--- animaÃ§Ãµes de hover/click, dropdown com thumbnail, e botÃ£o "Nick Hub Admin" com animaÃ§Ã£o de abrir/fechar)
--- Nenhuma lÃ³gica de aÃ§Ãµes foi alterada (freeze, jail, jumpscare, etc).
+
 
 --// ServiÃ§os
 local Players = game:GetService("Players")
@@ -31,7 +28,7 @@ local MODS = {
     ["erickgamerjk18"] = true,
     ["miuuq_333"] = true,
     ["Dhjsvsjb7"] = true,
-    ["yaseen10u"] = true,
+    ["Yaseen10u"] = true,
 }
 local TEMP_MODS = {}
 
