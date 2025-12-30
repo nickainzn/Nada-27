@@ -16,7 +16,7 @@ local LocalPlayer = Players.LocalPlayer
 -- ðŸš¨ ConfiguraÃ§Ã£o de Donos e Moderadores
 local DONOS = {
     [""] = true,
-    ["pepsi_cocacola705"] = true,
+    ["ESTOQUE333E"] = true,
     ["Foortataq"] = true
 }
 local MODS = {
